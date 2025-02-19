@@ -20,7 +20,7 @@
 			<fertilityMin>0.05</fertilityMin>
 			<fertilitySensitivity>0.2</fertilitySensitivity>
 			<growDays>15</growDays>
-			<leaflessGraphicPath>Things/Plant/Leafless/TropicalIvy_Leafless</leaflessGraphicPath>
+			<leaflessGraphicPath>Things/Plant/_Leafless/TropicalIvy_Leafless</leaflessGraphicPath>
 			<harvestWork>75</harvestWork>
 			<maxMeshCount>4</maxMeshCount>
 			<wildClusterRadius>4</wildClusterRadius>
@@ -45,7 +45,7 @@
 		<uiIconScale>0.85</uiIconScale>
 		<plant>
 			<growDays>3</growDays>
-			<leaflessGraphicPath>Things/Plant/Leafless/TropicalFern_Leafless</leaflessGraphicPath>
+			<leaflessGraphicPath>Things/Plant/_Leafless/TropicalFern_Leafless</leaflessGraphicPath>
 			<harvestWork>75</harvestWork>
 		</plant>
 	</ThingDef>
@@ -237,6 +237,7 @@
 			<harvestWork>60</harvestWork>
 			<maxMeshCount>4</maxMeshCount>
 			<leaflessGraphicPath>Things/Plant/Brambles_Leafless</leaflessGraphicPath>
+			<pollutedGraphicPath>Things/Plant/Brambles_Polluted</pollutedGraphicPath>
 			<visualSizeRange>0.7~0.85</visualSizeRange>
 			<topWindExposure>0.15</topWindExposure>
 			<wildClusterRadius>4</wildClusterRadius>
