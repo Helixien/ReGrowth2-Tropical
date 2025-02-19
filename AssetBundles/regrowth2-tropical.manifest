@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2364171004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e059c191ecd4f12b5bceab0c88633c4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalChokevine/TropicalChokevineA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Oxalis/OxalisB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalChokevine/TropicalChokevineD.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Plumeria/PlumeriaA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/NeoAmanita/NeoAmanitaC.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Oxalis/OxalisA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Oxalis/OxalisB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Tidalis/TidalisB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalChokevine/TropicalChokevineA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalBrambles/TropicalBramblesA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/NeoAmanita/NeoAmanitaA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Tidalis/TidalisB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalIvy/TropicalIvyA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Plumeria/PlumeriaC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/NeoAmanita/NeoAmanitaA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalBrambles/TropicalBramblesA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Oxalis/OxalisC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Tidalis/TidalisA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Oxalis/OxalisA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalIvy/TropicalIvyC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalIvy/TropicalIvyB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalIvy/TropicalIvyA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Plumeria/PlumeriaC.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalChokevine/TropicalChokevineC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/NeoAmanita/NeoAmanitaB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalBrambles/TropicalBramblesB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalChokevine/TropicalChokevineD.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalChokevine/TropicalChokevineC.psd
+- Assets/Data/2984289513/Textures/Things/Plant/NeoAmanita/NeoAmanitaC.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/NeoAmanita/NeoAmanitaB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalBrambles/TropicalBramblesB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Plumeria/PlumeriaB.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/Tidalis/TidalisA.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/_Leafless/TropicalIvy_Leafless/TropicalIvy_LeaflessA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalIvy/TropicalIvyC.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalChokevine/TropicalChokevineB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Plumeria/PlumeriaA.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Oxalis/OxalisC.psd
+- Assets/Data/ReGrowth2-Tropical/Textures/Things/Plant/TropicalIvy/TropicalIvyB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/TropicalChokevine/TropicalChokevineB.psd
+- Assets/Data/2984289513/Textures/Things/Plant/Plumeria/PlumeriaB.psd
+Dependencies: []
