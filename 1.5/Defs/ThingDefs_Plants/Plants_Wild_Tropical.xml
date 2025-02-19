@@ -237,6 +237,7 @@
 			<harvestWork>60</harvestWork>
 			<maxMeshCount>4</maxMeshCount>
 			<leaflessGraphicPath>Things/Plant/Brambles_Leafless</leaflessGraphicPath>
+			<pollutedGraphicPath>Things/Plant/Chokevine_Polluted</pollutedGraphicPath>
 			<visualSizeRange>0.7~0.85</visualSizeRange>
 			<topWindExposure>0.15</topWindExposure>
 			<wildClusterRadius>4</wildClusterRadius>
